@@ -1,0 +1,13 @@
+h1{
+    text-align: right;
+    background-color: brown;
+    padding: 50px;
+}
+p{
+    background-color: darkblue;
+    padding: 15px;
+}
+strong {
+    font-size: 100px;
+    color: darkorchid;
+}
